@@ -36,7 +36,7 @@ This document describes how integrators can integrate Detect Store/Terminal SDK 
 ```
 * You need to include the following dependencies to the application level gradle file 
 ```groovy
-  implementation ('app.beamuae:physicalstore:1.1.2:release@aar'){
+  implementation ('app.beamuae:physicalstore:1.1.3:release@aar'){
     transitive = true
   }
 
